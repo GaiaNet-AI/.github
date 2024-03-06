@@ -6,7 +6,7 @@ Each Gaia node provides a specialized API service that encapsulates a unique com
 
 * a specialized and fine-tuned LLM (e.g., an LLM that excels in answering questions about the Rust programming language)
 * a domain-specific knowledge base (e.g., knowledge about the WasmEdge project)
-* an inference app that manages context and history of the conversations (e.g., RAG and MemGPT prompt injection)
+* an inference app that manages the context and history of conversations (e.g., RAG and MemGPT prompt injection)
 * compute resources required to run the LLM app as an API service (e.g., a Nvidia GPU or a Mac M3 device)
 
 The Gaia node API service is fully compatible with the OpenAI JSON spec, and hence each Gaia node can function as an alternative backend for OpenAI-based frontends or agents.
