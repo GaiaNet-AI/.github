@@ -13,7 +13,7 @@ The Gaianet node API service is fully compatible with the OpenAI JSON spec, and 
 
 ### Gaianet protocol
 
-The Gaianet protocol connects and incentivizes Gaianet nodes to form a coherent network of web services for AI agents. It provides a mechanism to discovery, connect, and pay for Gaianet node services through a decentralized marketplace.
+The Gaianet protocol connects and incentivizes Gaianet nodes to form a coherent network of web services for AI agents. It provides a mechanism to discover, connect to, and pay for Gaianet node services through a decentralized marketplace.
 
 <div align="center">
   
