@@ -1,5 +1,8 @@
 ## Introducing the Gaianet AI network
 
+![image](https://github.com/GaiaNet-AI/.github/assets/45785633/d6976adc-f97d-4f86-a648-0f2f5c8e7eee)
+
+
 ### Gaianet node
 
 Each Gaianet node provides a specialized API service that encapsulates a unique combination of
@@ -20,3 +23,11 @@ The Gaianet protocol connects and incentivizes Gaianet nodes to form a coherent 
 ![Gaianet protocol](https://github.com/gaia-network/.github/raw/main/profile/gaia_arch.png)
 
 </div>
+
+### Contact information
+
+* [Website](https://www.gaianet.ai/)
+* [Twitter](https://twitter.com/Gaianet_AI)
+* [Discord](https://discord.gg/x8gfzVFC)
+* [Telegram](https://t.me/Gaianet_AI)
+* [Medium](https://medium.com/@Gaianet.ai)
