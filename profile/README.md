@@ -20,7 +20,8 @@ The Gaianet protocol connects and incentivizes Gaianet nodes to form a coherent 
 
 <div align="center">
   
-![Gaianet protocol](https://github.com/gaia-network/.github/raw/main/profile/gaia_arch.png)
+<img width="1375" alt="image" src="https://github.com/GaiaNet-AI/.github/assets/45785633/ce6ca80b-a4a7-4f21-a448-65968e1e3bf9">
+
 
 </div>
 
