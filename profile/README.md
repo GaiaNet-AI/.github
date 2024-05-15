@@ -32,8 +32,4 @@ The GaiaNet protocol connects and incentivizes GaiaNet nodes and domains to form
 
 ### Join us!
 
-* [Website](https://www.gaianet.ai/)
-* [Twitter](https://twitter.com/Gaianet_AI)
-* [Discord](https://discord.gg/x8gfzVFC)
-* [Telegram](https://t.me/Gaianet_AI)
-* [Medium](https://medium.com/@Gaianet.ai)
+[Website](https://www.gaianet.ai/) | [Twitter](https://twitter.com/Gaianet_AI) | [Discord](https://discord.gg/x8gfzVFC) | [Telegram](https://t.me/Gaianet_AI) | [Medium](https://medium.com/@Gaianet.ai)
