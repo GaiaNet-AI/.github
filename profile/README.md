@@ -25,10 +25,11 @@ The GaiaNet protocol connects and incentivizes GaiaNet nodes and domains to form
 
 <div align="center">
   
-<img width="1375" alt="image" src="https://github.com/GaiaNet-AI/.github/assets/45785633/ce6ca80b-a4a7-4f21-a448-65968e1e3bf9">
+<img width="1375" alt="image" src="https://github.com/GaiaNet-AI/.github/assets/45785633/22d63d2e-1aba-420a-8085-4c6f57e438b6">
 
 
 </div>
+
 
 ### Join us!
 
