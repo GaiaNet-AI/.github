@@ -17,7 +17,7 @@ The GaiaNet node API service is fully compatible with the OpenAI JSON spec, and 
 
 ### GaiaNet domain
 
-GaiaNet nodes are organized into GaiaNet domains so that they can be discovered and accessed from the world. A GaiaNet domain groups together nodes that have similiar purposes, and provides a single Internet domain for all its node agents. For example, agents that answer student questions at University of California at Berkeley could be organized under the `gaianet.berkeley.edu` domain. The doman owner vouches for its node agents by puttings its reputation behind the agents. Hence, a staking mechnism is designed for the domains. If a domain is found to have too many inactive or even misbehaving agents, the domain stakers could be slashed.
+GaiaNet nodes are organized into GaiaNet domains so that they can be discovered and accessed from the world. A GaiaNet domain groups together nodes that have similiar purposes, and provides a single Internet domain for all its node agents. For example, agents that answer student questions at University of California at Berkeley could be organized under the `gaianet.berkeley.edu` domain. The domain owner vouches for its node agents by puttings its reputation behind the agents. Hence, a staking mechanism is designed for the domains. If a domain is found to have too many inactive or even misbehaving agents, the domain stakers could be slashed.
 
 ### GaiaNet protocol
 
