@@ -13,17 +13,17 @@ Each Gaia node provides a specialized API service that encapsulates a unique com
 
 The Gaia node API service is fully compatible with the OpenAI JSON spec, and hence each Gaia node can function as an alternative backend for OpenAI-based frontends or agents.
 
-### GaiaNet domain
+### Gaia domain
 
-Gaia nodes are organized into GaiaNet domains so that they can be discovered and accessed from the world. A GaiaNet domain groups together nodes that have similiar purposes, and provides a single Internet domain for all its node agents. For example, agents that answer student questions at University of California at Berkeley could be organized under the `gaianet.berkeley.edu` domain. The domain owner vouches for its node agents by puttings its reputation behind the agents. Hence, a staking mechanism is designed for the domains. If a domain is found to have too many inactive or even misbehaving agents, the domain stakers could be slashed.
+Gaia nodes are organized into Gaia domains so that they can be discovered and accessed from the world. A Gaia domain groups together nodes that have similiar purposes, and provides a single Internet domain for all its node agents. For example, agents that answer student questions at University of California at Berkeley could be organized under the `gaianet.berkeley.edu` domain. The domain owner vouches for its node agents by puttings its reputation behind the agents. Hence, a staking mechanism is designed for the domains. If a domain is found to have too many inactive or even misbehaving agents, the domain stakers could be slashed.
 
-### GaiaNet protocol
+### Gaia protocol
 
-The GaiaNet protocol connects and incentivizes Gaia nodes and domains to form a coherent network of web services for AI agents. It provides a mechanism to discover, connect to, and pay for Gaia node services through a decentralized marketplace. It also incentivizes domains to manage node agents through a staking program. Furthermore, the GaiaNet protocol connects model creators (i.e., people who have skills to finetune models) and knowledge providers to node operators through a marketplace.
+The Gaia protocol connects and incentivizes Gaia nodes and domains to form a coherent network of web services for AI agents. It provides a mechanism to discover, connect to, and pay for Gaia node services through a decentralized marketplace. It also incentivizes domains to manage node agents through a staking program. Furthermore, the Gaia protocol connects model creators (i.e., people who have skills to finetune models) and knowledge providers to node operators through a marketplace.
 
 <div align="center">
   
-<img width="1375" alt="image" src="https://github.com/GaiaNet-AI/.github/assets/45785633/22d63d2e-1aba-420a-8085-4c6f57e438b6">
+<img width="1375" alt="image" src="https://github.com/user-attachments/assets/375bf608-bc9a-4ff2-b7c4-c5169280de59">
 
 
 </div>
