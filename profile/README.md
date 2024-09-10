@@ -31,4 +31,4 @@ The Gaia protocol connects and incentivizes Gaia nodes and domains to form a coh
 
 ### Join us!
 
-[Website](https://www.gaianet.ai/) | [Twitter](https://twitter.com/Gaianet_AI) | [Discord](https://discord.gg/x8gfzVFC) | [Telegram](https://t.me/Gaianet_AI) | [Medium](https://medium.com/@Gaianet.ai)
+[Website](https://www.gaianet.ai/) | [X (Twitter)](https://x.com/Gaianet_AI) | [Discord](https://discord.gg/x8gfzVFC) | [Telegram](https://t.me/Gaianet_AI) | [Medium](https://medium.com/@Gaianet.ai)
